@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> this is one last test fjdsfdhsfjksdhfsdjk </h3>
+<h1> Hello, Welcome to my website !!! </h1>
+<h2> author Shrajan Jain</h2>
+<h3> this is last update </h3>
